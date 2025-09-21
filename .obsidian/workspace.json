@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Git命令问题诊断与解决完整指南.md",
+                "file": "Notes/GitHub Actions 环境变量配置指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git命令问题诊断与解决完整指南"
+              "title": "GitHub Actions 环境变量配置指南"
             }
           }
         ]
@@ -171,11 +171,17 @@
   },
   "active": "ead9a7bb39be3996",
   "lastOpenFiles": [
-    "docs/frontier/凉州词-王翰.md",
+    "docs/history/test.md",
+    "README.md",
+    "Notes/GitHub Actions 环境变量配置指南.md",
     "Notes/Git命令问题诊断与解决完整指南.md",
+    "docs/landscape/过故人庄-孟浩然.md",
+    "docs/index.md",
+    "docs/history/登金陵凤凰台-李白.md",
+    "docs/frontier/凉州词-王翰.md",
+    "Notes",
     "Notes/Quick-Git-Fix-Guide.md",
     "Notes/Git-Command-Issue-Diagnosis-and-Resolution.md",
-    "Notes",
     "docs/frontier/关山月-李白.md"
   ]
 }
