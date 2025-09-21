@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/frontier/关山月-李白.md",
+                "file": "Notes/Git命令问题诊断与解决完整指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "关山月-李白"
+              "title": "Git命令问题诊断与解决完整指南"
             }
           }
         ]
@@ -160,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -169,5 +170,12 @@
     }
   },
   "active": "ead9a7bb39be3996",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "docs/frontier/凉州词-王翰.md",
+    "Notes/Git命令问题诊断与解决完整指南.md",
+    "Notes/Quick-Git-Fix-Guide.md",
+    "Notes/Git-Command-Issue-Diagnosis-and-Resolution.md",
+    "Notes",
+    "docs/frontier/关山月-李白.md"
+  ]
 }
